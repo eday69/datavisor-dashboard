@@ -25,16 +25,3 @@ Run `ng start` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-
-
-
-The source code, preferably in a public repository.
-A live demo of the application.
-Brief documentation including setup/installation instructions and an architectural overview.
-Evaluation Criteria:
-Proficiency in Angular and React.
-
-Effectiveness in embedding the React component within Angular.
-Code quality and documentation.
-Problem-solving abilities, especially related to handling real-time data with WebSocket and ensuring responsiveness.
